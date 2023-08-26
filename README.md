@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jose Carlos</h1>
+<div align="center">
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/90472114705174546/41ED95ACE18D194A63D0DE3F826EA01B5F3D34DD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center" width="600"/>
+</div>
+<h1 align="center">Welcome stranger 👋, I'm Jose Carlos</h1>
 <h3 align="center">A passionate FullStack developer from Sevilla</h3>
 
 - 🖱️ I’m currently working on [Miranda Dashboard](https://github.com/josekbm/dashboard-miranda)

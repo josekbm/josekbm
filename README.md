@@ -6,7 +6,7 @@
 
 - 🖱️ I’m currently working on [Miranda Dashboard](https://github.com/josekbm/dashboard-miranda)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [github.com/josekbm](github.com/josekbm)
 

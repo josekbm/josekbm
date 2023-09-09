@@ -4,8 +4,8 @@
 <h1 align="center">Welcome friend 👋, I'm Jose Carlos</h1>
 <h3 align="center">A passionate FullStack developer from Sevilla</h3>
 
-- 🖱️ I’m currently working on [Hotel-Miranda-Laravel](https://github.com/josekbm/](https://github.com/josekbm/Hotel-Miranda-Laravel)
-
+- 🖱️ I’m currently working on [Miranda Dashboard](https://github.com/josekbm/dashboard-miranda)
+  
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [github.com/josekbm](github.com/josekbm)

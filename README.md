@@ -26,5 +26,3 @@
   <a href="https://github.com/josekbm/github-readme-stats"><img alt="josekbm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=josekbm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0A0C10" /></a>
   <a href="https://github.com/josekbm/github-readme-stats"><img alt="josekbm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josekbm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0A0C10" /></a>
 </div>
-
-

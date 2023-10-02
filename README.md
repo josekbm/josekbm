@@ -4,7 +4,7 @@
 <h1 align="center">Welcome friend 👋, I'm Jose Carlos</h1>
 <h3 align="center">A passionate FullStack developer from Sevilla</h3>
 
-- 🖱️ I’m currently working on [Hotel Miranda PHP](https://github.com/josekbm/Hotel-Miranda-PHP)
+- 🖱️ I’m currently working on [Gamer's Nest](https://github.com/josekbm/gamers_nest)
   
 - 🌱 I’m currently learning **Laravel**
 

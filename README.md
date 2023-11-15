@@ -6,7 +6,7 @@
 
 - 🖱️ I’m currently working on [Gamer's Nest](https://github.com/josekbm/gamers_nest)
   
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [github.com/josekbm](github.com/josekbm)
 

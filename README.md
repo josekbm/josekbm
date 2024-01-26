@@ -6,7 +6,7 @@
 
 - 🖱️ I’m currently working on [URL Shortener](https://github.com/josekbm/url-shortener)
   
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js & Astro**
 
 - 👨‍💻 All of my projects are available at [github.com/josekbm](github.com/josekbm)
 

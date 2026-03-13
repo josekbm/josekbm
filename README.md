@@ -4,7 +4,7 @@
 <h1 align="center">Welcome friend 👋, I'm Jose Carlos</h1>
 <h3 align="center">FullStack developer from Sevilla</h3>
 
-- 🖱️ I’m currently working on [URL Shortener](https://github.com/josekbm/url-shortener)
+- 🖱️ I’m currently working on some secret proyects 🤫
   
 - 🌱 I’m currently learning **Python 🐍**
 

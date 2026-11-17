@@ -32,7 +32,7 @@ infraestructura contenerizada con **Docker** y **Linux**. Inglés C2 certificado
 - 🔭 Ahora mismo: automatizando procesos corporativos con LLMs, agentes y n8n en [Ametel](https://www.linkedin.com/company/ametel)
 - 🌱 Explorando: despliegue local de modelos, RAG y orquestación de agentes
 - 👨‍💻 Mis proyectos están en [github.com/josekbm](https://github.com/josekbm)
-- 🖥️ Mi portfolio (una terminal interactiva): [josekbm.github.io/PortfolioJCB](https://josekbm.github.io/PortfolioJCB/)
+- 🖥️ Mi portfolio (una terminal interactiva): [www.blancodev.es](https://blancodev.es)
 
 ### `ls ./skills`
 
